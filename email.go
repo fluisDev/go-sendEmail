@@ -2,6 +2,6 @@ package email
 
 import "fmt"
 
-func send() {
+func Send() {
 	fmt.Println("Enviar email")
 }
